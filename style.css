@@ -1,0 +1,29 @@
+* {
+    margin: 3px;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    background-color: #0E3C4B;
+    color: #DAB896;
+    overflow: scroll;
+}
+
+h1 {
+    text-align: center;
+    text-wrap: wrap;
+}
+
+img {
+    width: 50%;
+    height: auto;
+}
+
+.centrar-imagen {
+    text-align: center;
+}
+
+.centrar-imagen img {
+    display: inline-block;
+}
