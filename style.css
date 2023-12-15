@@ -27,3 +27,11 @@ img {
 .centrar-imagen img {
     display: inline-block;
 }
+
+a:link {
+    color: #DAB896;
+}
+
+a:visited {
+    color: #DAB896;
+}
